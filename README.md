@@ -110,7 +110,7 @@ Invoice_Intelligence_System/
 ├── venv/                           # (ignored)
 
 Note: Data, model artifacts, logs, and virtual environment are excluded from the repository using .gitignore. Run training scripts to generate models locally.
-
+'''
 ---
 
 ## ⚡ How to Run
