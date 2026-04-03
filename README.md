@@ -109,14 +109,15 @@ Invoice_Intelligence_System/
 ├── logs/                           # (ignored)
 ├── venv/                           # (ignored)
 
+```
+
 Note: Data, model artifacts, logs, and virtual environment are excluded from the repository using .gitignore. Run training scripts to generate models locally.
-''
+
 ---
 
-## ⚡ How to Run
+### ⚡ How to Run
 
 ### 1️⃣ Clone Repository
-```bash
 git clone https://github.com/aarnav24/Invoice_Intelligence_System.git
 cd Invoice_Intelligence_System
 
